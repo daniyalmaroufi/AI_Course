@@ -10,5 +10,5 @@ This assignment aims to visualize a dataset of a bank and, using a simple classi
 
 ## CA1
 
-This assignment aims to solve a problem using search algorithms such as BTS, Uniform search, and A* algorithm. 
+This assignment aims to solve a problem using Informed and Uninformed search algorithms such as BTS, Uniform search, and A* algorithm. Finally, we will compare the time complexity of these algorithms.
 
