@@ -12,3 +12,6 @@ This assignment aims to visualize a dataset of a bank and, using a simple classi
 
 This assignment aims to solve a problem using Uninformed and Informed search algorithms such as BTS, IDS, and A* algorithm. Finally, we compare the time complexity of these algorithms.
 
+## CA2 - Game
+
+This assignment aims to use adversarial game algorithms such as minimax and alpha-beta pruning algorithms to play the Connect4 game against a computer. 
