@@ -15,3 +15,8 @@ This assignment aims to solve a problem using Uninformed and Informed search alg
 ## CA2 - Game
 
 This assignment aims to use adversarial game algorithms such as minimax and alpha-beta pruning algorithms to play the Connect4 game against a computer. 
+
+## CA2 - Genetic Algorithm
+
+This assignment aims to use the Genetic Algorithm (GA) to find an encoded text's key string (14 characters). We prepared a global text to generate the dictionary, and we will use it to decode the text.
+
