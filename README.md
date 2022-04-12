@@ -18,5 +18,5 @@ This assignment aims to use adversarial game algorithms such as minimax and alph
 
 ## CA2 - Genetic Algorithm
 
-This assignment aims to use the Genetic Algorithm (GA) to find an encoded text's key string (14 characters). We prepared a global text to generate the dictionary, and we will use it to decode the text.
+This assignment aims to use the Genetic Algorithm (GA) to find a decoded text's encryption key (14 characters). We prepared a global text to generate the dictionary, and we will use it to decipher the text.
 
