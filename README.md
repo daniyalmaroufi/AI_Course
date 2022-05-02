@@ -20,3 +20,6 @@ This assignment aims to use adversarial game algorithms such as minimax and alph
 
 This assignment aims to use the Genetic Algorithm (GA) to find a decoded text's encryption key (14 characters). We prepared a global text to generate the dictionary, and we will use it to decipher the text.
 
+## CA3 - Naive Bayes Network
+
+This assignment aims to use Naive Bayes networks to build a classifier model to predict the category of an article from Digikala using its excerpt.
