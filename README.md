@@ -23,3 +23,8 @@ This assignment aims to use the Genetic Algorithm (GA) to find a decoded text's 
 ## CA3 - Naive Bayes Network
 
 This assignment aims to use Naive Bayes networks to build a classifier model to predict the category of an article from Digikala using its excerpt.
+
+## CA4 - Machine Learning
+
+This assignment aims to use the Scikit-Learn python library to build three classifiers, K-Nearest-Neighbors, Decision-Tree, and Random Forests, and optimize the hyperparameters.
+
