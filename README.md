@@ -28,3 +28,6 @@ This assignment aims to use Naive Bayes networks to build a classifier model to 
 
 This assignment aims to use the Scikit-Learn python library to build three classifiers, K-Nearest-Neighbors, Decision-Tree, and Random Forests, and optimize the hyperparameters.
 
+## CA5 - Neural Networks
+
+This assignment aims to implement a neural networks API from scratch and use it to train a model for classifying handwritten Persian numbers.
