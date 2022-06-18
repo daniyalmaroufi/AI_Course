@@ -30,4 +30,10 @@ This assignment aims to use the Scikit-Learn python library to build three class
 
 ## CA5 - Neural Networks
 
+### Phase 1
+
 This assignment aims to implement a neural networks API from scratch and use it to train a model for classifying handwritten Persian numbers.
+
+### Phase 2
+
+This assignment aims to use the Tensorflow library with the Keras API to recognize handwritten alphabets of this Kaggle dataset.
