@@ -2,7 +2,7 @@
 
 University of Tehran - Artificial Intelligence Course
 
-Presented by Dr. Yaghoubzade
+Presented by Dr. Fadaei
 
 ## CA0
 
